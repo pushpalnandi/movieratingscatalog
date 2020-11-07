@@ -1,2 +1,2 @@
 # movieratingscatalog
-Spring Micro-Services
+Spring-Boot Micro-Services
